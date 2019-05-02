@@ -1,0 +1,8 @@
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\EntitiesER\bin\Debug\netcoreapp2.0\EntitiesER.deps.json
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\EntitiesER\bin\Debug\netcoreapp2.0\EntitiesER.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\EntitiesER\bin\Debug\netcoreapp2.0\EntitiesER.pdb
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\EntitiesER\obj\Debug\netcoreapp2.0\EntitiesER.csproj.CoreCompileInputs.cache
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\EntitiesER\obj\Debug\netcoreapp2.0\EntitiesER.AssemblyInfoInputs.cache
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\EntitiesER\obj\Debug\netcoreapp2.0\EntitiesER.AssemblyInfo.cs
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\EntitiesER\obj\Debug\netcoreapp2.0\EntitiesER.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\EntitiesER\obj\Debug\netcoreapp2.0\EntitiesER.pdb

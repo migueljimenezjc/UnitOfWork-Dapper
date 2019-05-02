@@ -1,0 +1,13 @@
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\obj\Debug\netcoreapp2.0\RepositoriesER.csprojResolveAssemblyReference.cache
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\obj\Debug\netcoreapp2.0\RepositoriesER.csproj.CoreCompileInputs.cache
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\obj\Debug\netcoreapp2.0\RepositoriesER.AssemblyInfoInputs.cache
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\obj\Debug\netcoreapp2.0\RepositoriesER.AssemblyInfo.cs
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\bin\Debug\netcoreapp2.0\RepositoriesER.deps.json
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\bin\Debug\netcoreapp2.0\RepositoriesER.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\bin\Debug\netcoreapp2.0\RepositoriesER.pdb
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\bin\Debug\netcoreapp2.0\DataAccessER.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\bin\Debug\netcoreapp2.0\EntitiesER.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\bin\Debug\netcoreapp2.0\DataAccessER.pdb
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\bin\Debug\netcoreapp2.0\EntitiesER.pdb
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\obj\Debug\netcoreapp2.0\RepositoriesER.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\RepositoriesER\obj\Debug\netcoreapp2.0\RepositoriesER.pdb

@@ -1,0 +1,11 @@
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\DataAccessER\bin\Debug\netcoreapp2.0\DataAccessER.deps.json
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\DataAccessER\bin\Debug\netcoreapp2.0\DataAccessER.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\DataAccessER\bin\Debug\netcoreapp2.0\DataAccessER.pdb
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\DataAccessER\bin\Debug\netcoreapp2.0\EntitiesER.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\DataAccessER\bin\Debug\netcoreapp2.0\EntitiesER.pdb
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\DataAccessER\obj\Debug\netcoreapp2.0\DataAccessER.csprojResolveAssemblyReference.cache
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\DataAccessER\obj\Debug\netcoreapp2.0\DataAccessER.csproj.CoreCompileInputs.cache
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\DataAccessER\obj\Debug\netcoreapp2.0\DataAccessER.AssemblyInfoInputs.cache
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\DataAccessER\obj\Debug\netcoreapp2.0\DataAccessER.AssemblyInfo.cs
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\DataAccessER\obj\Debug\netcoreapp2.0\DataAccessER.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\DataAccessER\obj\Debug\netcoreapp2.0\DataAccessER.pdb

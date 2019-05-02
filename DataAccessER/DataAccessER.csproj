@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.60.6" />
+    <PackageReference Include="Dapper.Contrib" Version="1.60.1" />
+    <PackageReference Include="GodSharp.Data.Common.DbProvider" Version="1.0.0-preview1" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.0.0-preview3.19153.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EntitiesER\EntitiesER.csproj" />
+  </ItemGroup>
+
+</Project>

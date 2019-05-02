@@ -1,0 +1,17 @@
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\obj\Debug\netcoreapp2.0\UnitOfWorkDR.csproj.CoreCompileInputs.cache
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\obj\Debug\netcoreapp2.0\UnitOfWorkDR.AssemblyInfoInputs.cache
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\obj\Debug\netcoreapp2.0\UnitOfWorkDR.AssemblyInfo.cs
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\obj\Debug\netcoreapp2.0\UnitOfWorkDR.csprojResolveAssemblyReference.cache
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\bin\Debug\netcoreapp2.0\UnitOfWorkDR.deps.json
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\bin\Debug\netcoreapp2.0\UnitOfWorkDR.runtimeconfig.json
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\bin\Debug\netcoreapp2.0\UnitOfWorkDR.runtimeconfig.dev.json
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\bin\Debug\netcoreapp2.0\UnitOfWorkDR.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\bin\Debug\netcoreapp2.0\UnitOfWorkDR.pdb
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\bin\Debug\netcoreapp2.0\DataAccessER.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\bin\Debug\netcoreapp2.0\EntitiesER.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\bin\Debug\netcoreapp2.0\RepositoriesER.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\bin\Debug\netcoreapp2.0\RepositoriesER.pdb
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\bin\Debug\netcoreapp2.0\EntitiesER.pdb
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\bin\Debug\netcoreapp2.0\DataAccessER.pdb
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\obj\Debug\netcoreapp2.0\UnitOfWorkDR.dll
+C:\Users\Datransfer TIC-01\source\repos\UnitOfWork\UnitOfWorkDR\obj\Debug\netcoreapp2.0\UnitOfWorkDR.pdb
